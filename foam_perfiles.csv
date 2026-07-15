@@ -1,0 +1,5 @@
+perfil_id,perfil,activo
+FOAM001,Operador Producción,SI
+FOAM002,Operador Inyección,SI
+FOAM003,Supervisor Producción,NO
+FOAM004,Técnico Calidad,SI
